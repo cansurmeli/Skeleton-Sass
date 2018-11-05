@@ -36,10 +36,13 @@
 ehthumbs.db
 Thumbs.db
 
+# SASS #
+######################
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
 # PROJECT SPECIFIC #
 ######################
-node_modules
-css
-.sass-cache
-bower_components
-
+css/
